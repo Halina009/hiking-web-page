@@ -1,2 +1,2 @@
-# hiking-web-page
-This is a Hiking Website.
+# my-first-webpage
+This is my first web page.
